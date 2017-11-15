@@ -14,3 +14,7 @@ A quick list of things a web developer should know
 - Databases
 - Debugging
 - Deployment or how to use Platform as a Service (PaaS)
+
+## Contributing
+
+Feel free to add to this list by creating a pull request
